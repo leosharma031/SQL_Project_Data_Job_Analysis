@@ -1,5 +1,5 @@
 # Introduction
-This project explores the Data Analyst job market by querying a real-world job postings dataset. Over five targeted SQL analyses, I uncover high‑paying roles, in‑demand skills, salary patterns, and remote‑work trade‑offs. 
+This project explores the Data Analyst job market by querying a real-world job postings dataset. Over five targeted SQL analyses, I uncover high‑paying roles, in‑demand skills, salary patterns, and remote‑work trade‑offs.  
 
 The goal is to demonstrate practical SQL techniques while deriving actionable career insights. [Data Analyst Project folder](/Data%20Analyst%20Project/)
 
